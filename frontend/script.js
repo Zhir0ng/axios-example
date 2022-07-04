@@ -126,4 +126,3 @@ function GetAllMessages()
         DisplayResponse(error);
     });
 }
-
